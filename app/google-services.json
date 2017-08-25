@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "29187502175",
+    "firebase_url": "https://mldance-1500313678788.firebaseio.com",
+    "project_id": "mldance-1500313678788",
+    "storage_bucket": "mldance-1500313678788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29187502175:android:b1162b7a821ccc6a",
+        "android_client_info": {
+          "package_name": "com.cdk.food.foodreviews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29187502175-6t2s1cn32pf2lbsjibmro9sgqss45vpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzV8As5TInkPwl00xOC2O-hVWHPhtMrBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

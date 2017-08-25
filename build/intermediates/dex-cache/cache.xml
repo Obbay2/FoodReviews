@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/43edf4bb05247361f2fbcc133e933e6c1d2edc9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c0a9dbd76f7de3683d8e80fda10f2389e391958f">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_b04bd5a33ea0844335d4a50806593a282a31ea1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/63a9c3cb9451adecb66235700118bacdbb014176/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eeb2226439fc09924584ada5b2f61a2ecdfe15a6">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_72e55809f1953451c6eb7ee87d84f1ed37c48bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/4ec9826b0df9fc53ffcf0cfa435df743dce419da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c41b9b00f7da9e8fcc6d45af96662699ad3b8c0">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_b81f82ab44bf68f522505c2de5d7de50dc1c27c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/0703acfe22072f64648767c097eca4d7068fb5f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5d8315789fd7530784fbbc72bb3ac1a016fa703c">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_fea169552405d55a3ca5596e7176f2b95837c35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/2bde635d9b96d7ebf3e12b3b398822645f07beb7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="425afda77858230389ade1965e87c8d4a2b730a2">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_485db0b222b9f00f6c03277576fc7ed250689c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/df14219270ab3f88250a7d3f88f6ffcdb208941e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_266f189d38ac61bc2d92d1bd09762b241766fd3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/json-simple-1.1_cf3b90e8d6328ba08b02b8f6e4ac0598de7377e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/86ac858349f4143bdb9fbd503b7ae6c7fb3349e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="113afb69fdd5c66bf9aaa1bf425105a3fbbfa10c">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_7586c57ead30885851b81a4f6c812978c828a5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/d1d5cbab499b1cdde10cb87f3507509887c55f59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_061eb7fba05b18ca5924e0d59e5c201271eb2259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/c9b8234d0297290be1245c1b905fe243ae9e51c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_5c44344ab97a60af218c66b9bf8974993769f319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/3f1be5824655762fba10146c0825f3298ddcdab9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_f735e0ca9f92da8c053cb9eaa3b8e10e83e4285b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/24e8f92a260688782e7aa742931b519940ecff72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="30305be7e5eacf82de3a96c92082eaab5e22fef2">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_0df921980d1e247e49ebf06d04b15627618f7ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/2f342b00c0c9185d2993bd1fba3a99f7b0d07053/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fbaffbfc2a42fce3718dc9f52182810ad332b0ec">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_0491b2fb70d850933ba5492d2416781be74d027d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/f6113de58dcd12347976372c07225084388b1761/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="019dc75760bad4da9bb73a168601eede6a9dd981">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_7ade97707fc447a41e13613fd3b972b135d87781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/ce1e9d38aa56ae4103e63c1ff3ea264a04b28f4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_428eff4178589d5068b6020f4e41a876739ca46d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/c8d236aff14c18e403618ac0233bacc52cca0709/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4e989c9e1ff3ab892b8b82dd574d3da763eb3ac5">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_1aa8a96b0d1559757ce41f00f5ce929fbe5d9d0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/okhttp-3.4.2_eda942f0ae0a2081450bad522bbffd5feb1281d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/04a900d21e387027121865503c4e78aa86c42035/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6d45299ad5bac7b04e366764d7f6bd3159b78130">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_10eb2178c40d82f3c8115d75277694c677618e88.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c838711caba4dba21cbb03caff01c3d9f7c5ba04/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/990356762decac5af52e2367f8eb40328ef2dc0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14b6254806b82e8c7c000963d9ea1a611950cc78">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_6b8f2e089616eee535f0000f5a7acf1ec2e98bc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/6964e07cd6090c771f2cfa8b000fd807d4be1d97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_300fd16edff7f0933ce7b92852dfb4f805c4dbb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/cb6d6a00822e14613b427d262cb8a81338d3801d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f34c132eee1f82d05744419e15b2beb6ba46bea">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_dc4fb3299c537072d1e260508463027f4d7b33fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/9a86e17c622026787106e89a0c539fc80d5a6aac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6c73c2c2fc7e9ab6fad571a26b12364aba5461ef">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_afcd6a62f951a8ffb24557357e86265be5d25892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/3006829aef44a8b5bf1c04452ea6a823f31c88d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_993a46c3e9712e77c976865603d0c1818bb2c41f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/702b696a29855d69cf8a208bf501b33d322634fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a7ef392d8f694650fb9742790a288fda94e6966b">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_e127985117c23e494a29732cc6494f16722e5863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/a4c0771cb6bf5281de2e7252a6445b239d926b84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76245722a4ca45146f008723a62de4fc462505c1">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_fc3ac06a29218dfb3ecad79d017897bfaa8c23e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/936421997f05c957826b03188ccef8ebddf0a8dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_5d0e0822b264c430385101825eb6edaad40c2152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/f6389b8df162a24e0469ee05c0a1933483060bf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_8d4e8cce9582409f71bf2e9a4b562aaa80e1bb9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/aab870d1b763812afa7a5527df29a3aed00526b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e300bd648b3784971b984858f0dde1cc66951964">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_edae11eb4fb64aaf2eb694dfb9dba8189eab99b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_72f9f886c41bf6729b0ca47f8810f3898e76095b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/fd805161bb2a1b0f45d862e52865d2d92bc1e857/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f200454bd6851899efe021d2a4673959986edaed">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_e34c703f0c95f2c0c30ab7522a36cca71f67093d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/okio-1.9.0_2ec9aa622b783053f7a2bbba4846d3d61081e86a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8a15238746e086e554c07f2976ad349d3c45392c">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_25b7f184d1c0ce09f6286d1eea64d6dd66df62dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.0-beta2/e5ef6e4822404221c9b03dff0d31e4810ac3fb0d/support-annotations-26.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5ef6e4822404221c9b03dff0d31e4810ac3fb0d">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-beta2_3e81a84139c50f740184e27347b43213f958453e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/ff21cf4f5b87b33eadc802f828787ecac4167c9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_76c6b52156a64e93b9688a59e11af210ef172057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wreggitn/.android/build-cache/d579b061db35fcd03fa13bf713ce1db13db42ee9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/Users/wreggitn/android-workspace/mldance/app/build/intermediates/pre-dexed/debug/classes_525985dfc830f8ed3bc72af992159cb4c33de1d3.jar" />
+    </item>
+
+</items>
